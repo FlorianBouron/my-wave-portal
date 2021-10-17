@@ -2,6 +2,11 @@
 
 This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
 
+## How to deploy and use a contract?
+1. Deploy the contract (check the command lines below).
+2. Add your contract address to your frontend.
+3. Load your ABI file to your frontend (check below).
+
 ## ABI (Application Binary Interface) File
 You can find your ABI file under: `artifacts/contracts/WavePortal.sol/WavePortal.json`.
 ## Command lines:
