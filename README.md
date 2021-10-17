@@ -20,12 +20,23 @@ npx hardhat accounts
 npx hardhat node
 ```
 
+## Deploy the contract to local blockchain:
+
+```shell
+npx hardhat run scripts/deploy.js --network localhost
+```
+
+## Deploy the contract to rinkeby blockchain:
+
+```shell
+npx hardhat run scripts/deploy.js --network rinkeby
+```
+
 Try running some of the following tasks:
 
 ```shell
 npx hardhat clean
 npx hardhat test
 npx hardhat run scripts/run.js
-npx hardhat run scripts/deploy.js --network localhost
 npx hardhat help
 ```
