@@ -1,6 +1,11 @@
-# Basic Sample Hardhat Project
+# Wave Portal
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+This project demonstrates how to use web 3 on the Etherum (ETH) blockchain.
+It is a chat where you can wave people and send them messages.
+
+Disclosure: The frontend was bootstrap as an MVP and is definitely buggy and not well structured.
+
+You can access the website with the following link: https://waveportal-starter-project.florianbouron.repl.co/
 
 ## How to deploy and use a contract?
 1. Deploy the contract (check the command lines below).
